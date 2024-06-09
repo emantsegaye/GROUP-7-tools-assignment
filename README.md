@@ -1,1 +1,7 @@
 # GROUP-7-tools-assignment
+
+1,YEMAN TSEGAYE............. WDU 147554
+2,GELETA BIRHANU............. WDU 146202
+3,MEMAR TESHOME............. WDU 146783
+4,KALAB MESFIN............. WDU 146501
+5,ENDALAMAW GEITE............. WDU 145987
