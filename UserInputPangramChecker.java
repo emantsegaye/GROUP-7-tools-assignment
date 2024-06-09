@@ -14,6 +14,7 @@ public class UserInputPangramChecker {
 
         scanner.close();
     }
+    
 
     public static boolean isPangram(String str) {
         // Convert the input string to lowercase
