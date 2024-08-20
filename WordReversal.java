@@ -18,4 +18,13 @@ public class WordReversal {
         }
         return reversedSentence.toString().trim();
     }
+	
+ Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a sentence: ");
+        String sentence = scanner.nextLine();
+        String reversedSentence = reverseWords(sentence);
+        System.out.println("Reversed sentence: " + reversedSentence);
+        scanner.close();
+    }	
+	
 }
